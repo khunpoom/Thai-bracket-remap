@@ -1,6 +1,6 @@
 {
   "id": "thai-bracket-remap",
-  "name": "Thai Bracket Remap (ฃ → [ , ฅ → ])",
+  "name": "Thai Bracket Remap",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
   "description": "แปลงตัวอักษร ฃ ให้กลายเป็น [ และ ฅ ให้กลายเป็น ] ทันทีที่พิมพ์ในตัวแก้ไข",
